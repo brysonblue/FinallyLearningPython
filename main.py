@@ -9,3 +9,8 @@ email = "Bro123@fake.com"
 print(f"Hello {first_name}")
 print(f"You like {food}")
 print(f"Your email is: {email}")
+
+#Integers
+age = 27
+
+print(f"You are {age} years old")
