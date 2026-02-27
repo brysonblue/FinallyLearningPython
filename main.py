@@ -29,3 +29,16 @@ print(f"Your GPA is {gpa}")
 print(f"You ran {distance} Kilometers")
 
 # Boolean, boolean are true/false, usually 1 for true, 0 for false
+
+is_student = True
+
+if is_student:
+    print(f"You are a student")
+else:
+    print(f"You are NOT a student")
+
+
+print(f"Are you a student?: {is_student}")
+
+
+
